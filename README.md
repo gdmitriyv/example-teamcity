@@ -14,4 +14,3 @@
 
 <img width="940" height="663" alt="6" src="https://github.com/user-attachments/assets/2c7ac8a4-2cad-4af9-a14c-39ebf88c86b1" />
 
-<img width="984" height="711" alt="7" src="https://github.com/user-attachments/assets/c6cff359-6ee3-4a26-ad3b-a59d35b7fe7b" />
